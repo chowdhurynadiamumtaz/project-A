@@ -1,0 +1,32 @@
+
+#myCarousel{
+	height: 600px;
+	background-color: none;
+	width: 100%;
+	margin: 0;
+	padding:0px;
+}
+.item active{
+	height: 600px;
+	width: 1600px;
+}
+html body{
+	height:100%;
+	width:100%;
+	margin: 0;
+	padding: 0;
+}
+.paragraph{
+	font-family: 'Skranji', cursive;
+	margin: 20px;
+	padding: 10px;
+	color:#6546aa;
+	font-weight: bold;
+	text-shadow: currentColor;
+}
+.container-fluid{
+	margin: 0px;
+	padding: 0px;
+
+}
+
